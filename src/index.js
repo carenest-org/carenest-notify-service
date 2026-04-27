@@ -35,4 +35,3 @@ process.on('SIGTERM', () => {
   console.log('SIGTERM received. Shutting down gracefully...');
   process.exit(0);
 });
-//checking if workflow works
